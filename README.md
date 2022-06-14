@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">I'm frontend developer from from Russia 🇷🇺</h3>
+<h3 align="center">I'm frontend developer from from Russia</h3>
 
 - 🔭 I’m currently working on ReactApp (English flashcards)
 - 🌱 I’m currently learning ReactJS
